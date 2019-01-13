@@ -1,2 +1,0 @@
-# treehouse
-Projects from Treehouse
